@@ -2,14 +2,41 @@
     property: value;
 } */
 
-h1{
-    color: rgb(206, 106, 206);
+/* body {
+    background-color: rgba(0, 0, 0, 0.781);
+} */
+
+body {
+    background: url(https://www.mccallfarms.com/wp-content/uploads/2015/11/banner-wood-grain.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-li{
+/* h1{
+    color: rgb(206, 106, 206); */
+    /* border-color: purple;
+    border-width: 5px;
+    border-style: solid; */
+    /* border: 8px solid rgb(163, 134, 163);
+} */
+
+/* li{
     color: rgb(216, 158, 49);
 }
 
 h4 {
     color: rgb(189, 57, 57);
+} */
+
+li {
+    border: 2px solid red;
+    color: pink;
+}
+
+#special {
+    background-color: plum;
+}
+
+.strike {
+    text-decoration: line-through;
 }
