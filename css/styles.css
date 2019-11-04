@@ -28,7 +28,7 @@ h4 {
     color: rgb(189, 57, 57);
 } */
 
-li {
+.todoli {
     border: 2px solid red;
     color: pink;
 }
